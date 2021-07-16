@@ -1,0 +1,87 @@
+    body {
+      color: white;
+      margin: 0px;
+      padding: 0px;
+      background-image: url("img4.webp");
+      font-family: 'Balsamiq Sans', cursive;
+  }
+  
+  .left {
+  
+      display: inline-block;
+      position: absolute;
+      top: 7px;
+      padding: 12px;
+      left: 23px;
+      width: 72px;
+  }
+  
+  .left img {
+      width: 63px;
+      display: inline-block;
+  
+  }
+  
+  .left .imagedown {
+      margin-top: 10px;
+      text-align: center;
+  }
+  
+  .mid {
+      width: 33%;
+      margin: 29px auto;
+      top: 18px;
+      padding: 10px auto;
+      display: block;
+  }
+  
+  .right {
+      display: inline-block;
+      position: absolute;
+      right: 34px;
+      top: 18px;
+  }
+  
+  a {
+      text-decoration: none;
+      text-decoration: none;
+      display: inline-block;
+  }
+  
+  .navbar li {
+      display: inline-block;
+      color: white;
+      font-size: 16px;
+  }
+  
+  .navbar li a {
+  
+      color: white;
+      padding: 0px 11px;
+      margin: auto;
+      font-weight: 800;
+      font-size: 25px;
+  }
+  
+  .navbar li a:hover,
+  .navbar li a:active {
+      text-decoration: underline;
+      color: grey;
+  }
+  
+  .btn {
+      border: 2px soild red;
+      padding: 20px;
+      font-weight: 50px;
+      margin: 5px;
+      border-radius: 19px;
+      color: white;
+      background-color: black;
+      font-size: 14px;
+      font-family: 'Balsamiq Sans', cursive;
+  }
+  
+  .form1 .formin {
+      margin: 100px 300px;
+      text-align: center;
+  }
